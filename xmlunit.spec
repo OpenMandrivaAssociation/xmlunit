@@ -37,7 +37,7 @@ Summary:        Provides classes to do asserts on xml
 License:        BSD
 Source0:        http://downloads.sourceforge.net/xmlunit/xmlunit-1.5-src.zip
 Source1:        http://repo1.maven.org/maven2/xmlunit/xmlunit/1.0/xmlunit-1.0.pom
-URL:            http://xmlunit.sourceforge.net/
+URL:            https://xmlunit.sourceforge.net/
 BuildRequires:  jpackage-utils
 BuildRequires:  java-devel >= 1:1.6.0
 BuildRequires:  ant
